@@ -3,7 +3,7 @@
 ## 1. Live Gateways
 
 * **Frontend (React / Vite):** https://cogent-solutions-nine.vercel.app/
-* **Backend API (FastAPI):** https://ravindunirman-cogent-solutions-assessment.hf.space
+* **Backend API (FastAPI):** https://kalinduhimasara/cogent-backend.hf.space
 
 ---
 
